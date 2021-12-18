@@ -1,0 +1,44 @@
+.drome {
+  /* The image used */
+height: 500px;
+  width: 100%;
+}
+
+h1{
+  color: #00ABE3;
+}
+.content{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.socialmedia{
+  display: flex;
+}
+.fb-page{
+   width: 500px;
+}
+.twitter-page{
+  width: 500px;
+  margin-left: 100px;
+   max-height:400px;
+}
+.twitter-timeline{
+    border-color: #00ABE3;
+}
+body{
+     margin-top: 50px;
+}
+.dromepark{
+    width: 100%;
+}
+
+.mapouter{
+    width: 100% !important;
+}
+.gmap_canvas{
+    width: 100% !important;
+}
+
+
